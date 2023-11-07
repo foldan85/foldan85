@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Daniel, sou Programador Front-End, atualmente estou aprendeno e criando projeto com:
+Eu sou Daniel, sou Programador Front-End, atualmente estou aprendendo e criando projeto com:
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <br>
